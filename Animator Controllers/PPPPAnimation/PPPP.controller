@@ -13,85 +13,85 @@ AnimatorController:
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 0}
+    m_Controller: {fileID: 9100000}
   - m_Name: TempX
     m_Type: 1
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 0}
+    m_Controller: {fileID: 9100000}
   - m_Name: TempY
     m_Type: 1
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 0}
+    m_Controller: {fileID: 9100000}
   - m_Name: TempZ
     m_Type: 1
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 0}
+    m_Controller: {fileID: 9100000}
   - m_Name: Jump
     m_Type: 9
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 0}
+    m_Controller: {fileID: 9100000}
   - m_Name: TakeDamage
     m_Type: 9
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 0}
+    m_Controller: {fileID: 9100000}
   - m_Name: Damage
     m_Type: 1
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 0}
+    m_Controller: {fileID: 9100000}
   - m_Name: IsGrounded
     m_Type: 4
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 1
-    m_Controller: {fileID: 0}
+    m_Controller: {fileID: 9100000}
   - m_Name: Charge
     m_Type: 1
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 0}
+    m_Controller: {fileID: 9100000}
   - m_Name: Ability01
     m_Type: 9
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 0}
+    m_Controller: {fileID: 9100000}
   - m_Name: Ability02
     m_Type: 9
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 0}
+    m_Controller: {fileID: 9100000}
   - m_Name: Ability03
     m_Type: 9
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 0}
+    m_Controller: {fileID: 9100000}
   - m_Name: Cancel
     m_Type: 9
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 0}
+    m_Controller: {fileID: 9100000}
   - m_Name: Element
     m_Type: 3
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 0}
+    m_Controller: {fileID: 9100000}
   m_AnimatorLayers:
   - serializedVersion: 5
     m_Name: Base Layer
@@ -127,7 +127,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f449cb97feb9e48efb1168e6058b8301, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameEvent: {fileID: 11400000, guid: e1a6c4f55d4ad4d6babf3efc4f99e8e1, type: 2}
+  gameEvent: {fileID: 0}
 --- !u!114 &114101935289588752
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -178,7 +178,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f449cb97feb9e48efb1168e6058b8301, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameEvent: {fileID: 11400000, guid: a182a8c12d6ff4c3aa173331edd11e49, type: 2}
+  gameEvent: {fileID: 11400000, guid: 6017f5a560b4c2b47a61fe815082f898, type: 2}
 --- !u!114 &114178139735578182
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -190,7 +190,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f449cb97feb9e48efb1168e6058b8301, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameEvent: {fileID: 11400000, guid: a182a8c12d6ff4c3aa173331edd11e49, type: 2}
+  gameEvent: {fileID: 0}
 --- !u!114 &114195017915050996
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -202,7 +202,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f449cb97feb9e48efb1168e6058b8301, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameEvent: {fileID: 11400000, guid: a182a8c12d6ff4c3aa173331edd11e49, type: 2}
+  gameEvent: {fileID: 0}
 --- !u!114 &114213063992563366
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -250,7 +250,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f449cb97feb9e48efb1168e6058b8301, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameEvent: {fileID: 11400000, guid: a182a8c12d6ff4c3aa173331edd11e49, type: 2}
+  gameEvent: {fileID: 11400000, guid: 4d2f227a065344158aa3356b64496fa6, type: 2}
 --- !u!114 &114359839675791412
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -325,7 +325,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f449cb97feb9e48efb1168e6058b8301, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameEvent: {fileID: 11400000, guid: a182a8c12d6ff4c3aa173331edd11e49, type: 2}
+  gameEvent: {fileID: 0}
 --- !u!114 &114503850333582752
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -337,7 +337,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f449cb97feb9e48efb1168e6058b8301, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameEvent: {fileID: 11400000, guid: a182a8c12d6ff4c3aa173331edd11e49, type: 2}
+  gameEvent: {fileID: 0}
 --- !u!114 &114522408358869112
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -384,7 +384,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f449cb97feb9e48efb1168e6058b8301, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameEvent: {fileID: 11400000, guid: e1a6c4f55d4ad4d6babf3efc4f99e8e1, type: 2}
+  gameEvent: {fileID: 11400000, guid: deed7200801a54c528fd6997224c2137, type: 2}
 --- !u!114 &114579453194403726
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -409,7 +409,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f449cb97feb9e48efb1168e6058b8301, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameEvent: {fileID: 11400000, guid: a182a8c12d6ff4c3aa173331edd11e49, type: 2}
+  gameEvent: {fileID: 11400000, guid: deed7200801a54c528fd6997224c2137, type: 2}
 --- !u!114 &114689104048600226
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -510,7 +510,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f449cb97feb9e48efb1168e6058b8301, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameEvent: {fileID: 11400000, guid: e1a6c4f55d4ad4d6babf3efc4f99e8e1, type: 2}
+  gameEvent: {fileID: 11400000, guid: 4d2f227a065344158aa3356b64496fa6, type: 2}
 --- !u!114 &114837279126650858
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -522,7 +522,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f449cb97feb9e48efb1168e6058b8301, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameEvent: {fileID: 11400000, guid: e1a6c4f55d4ad4d6babf3efc4f99e8e1, type: 2}
+  gameEvent: {fileID: 11400000, guid: 4d2f227a065344158aa3356b64496fa6, type: 2}
 --- !u!114 &114847748989690060
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -560,7 +560,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f449cb97feb9e48efb1168e6058b8301, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameEvent: {fileID: 11400000, guid: a182a8c12d6ff4c3aa173331edd11e49, type: 2}
+  gameEvent: {fileID: 11400000, guid: deed7200801a54c528fd6997224c2137, type: 2}
 --- !u!114 &114857720686621134
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -620,7 +620,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f449cb97feb9e48efb1168e6058b8301, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameEvent: {fileID: 11400000, guid: e1a6c4f55d4ad4d6babf3efc4f99e8e1, type: 2}
+  gameEvent: {fileID: 11400000, guid: 4d2f227a065344158aa3356b64496fa6, type: 2}
 --- !u!114 &114952097220799546
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -632,7 +632,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f449cb97feb9e48efb1168e6058b8301, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameEvent: {fileID: 11400000, guid: e1a6c4f55d4ad4d6babf3efc4f99e8e1, type: 2}
+  gameEvent: {fileID: 0}
 --- !u!206 &206574323456083716
 BlendTree:
   m_ObjectHideFlags: 1
