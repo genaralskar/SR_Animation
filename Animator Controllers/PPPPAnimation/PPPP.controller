@@ -127,7 +127,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f449cb97feb9e48efb1168e6058b8301, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameEvent: {fileID: 0}
+  gameEvent: {fileID: 11400000, guid: deed7200801a54c528fd6997224c2137, type: 2}
 --- !u!114 &114101935289588752
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -190,7 +190,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f449cb97feb9e48efb1168e6058b8301, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameEvent: {fileID: 0}
+  gameEvent: {fileID: 11400000, guid: 4d2f227a065344158aa3356b64496fa6, type: 2}
 --- !u!114 &114195017915050996
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -202,7 +202,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f449cb97feb9e48efb1168e6058b8301, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameEvent: {fileID: 0}
+  gameEvent: {fileID: 11400000, guid: 4d2f227a065344158aa3356b64496fa6, type: 2}
 --- !u!114 &114213063992563366
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -294,7 +294,7 @@ MonoBehaviour:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 0}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: add21b7a8fa4647978aa194e5ab224e0, type: 3}
   m_Name: 
@@ -325,7 +325,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f449cb97feb9e48efb1168e6058b8301, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameEvent: {fileID: 0}
+  gameEvent: {fileID: 11400000, guid: 4d2f227a065344158aa3356b64496fa6, type: 2}
 --- !u!114 &114503850333582752
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -337,7 +337,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f449cb97feb9e48efb1168e6058b8301, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameEvent: {fileID: 0}
+  gameEvent: {fileID: 11400000, guid: 4d2f227a065344158aa3356b64496fa6, type: 2}
 --- !u!114 &114522408358869112
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -589,7 +589,7 @@ MonoBehaviour:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 0}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: add21b7a8fa4647978aa194e5ab224e0, type: 3}
   m_Name: 
@@ -632,7 +632,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f449cb97feb9e48efb1168e6058b8301, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameEvent: {fileID: 0}
+  gameEvent: {fileID: 11400000, guid: deed7200801a54c528fd6997224c2137, type: 2}
 --- !u!206 &206574323456083716
 BlendTree:
   m_ObjectHideFlags: 1
