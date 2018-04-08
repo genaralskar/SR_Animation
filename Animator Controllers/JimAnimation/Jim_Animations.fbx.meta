@@ -590,15 +590,15 @@ ModelImporter:
     4300118: Jim_WhiteboxAnimationSetup04:L_Arm01
     4300120: Jim_WhiteboxAnimationSetup04:L_Arm02
     4300122: Jim_WhiteboxAnimationSetup04:L_Arm
-    7400000: '!JimIdle'
-    7400002: '!JimRun'
-    7400004: '!JimAttack1FrontSwing'
-    7400006: '!JimAttack1BackSwing'
-    7400008: '!JimJump'
-    7400010: '!JimLand'
-    7400012: '!JimHolsterWeapon'
-    7400014: '!JimAttack2Charge'
-    7400016: '!JimAttack2Slam'
+    7400000: im_JimIdle
+    7400002: im_JimRun
+    7400004: im_JimAttack1FrontSwing
+    7400006: im_JimAttack1BackSwing
+    7400008: im_JimJump
+    7400010: im_JimLand
+    7400012: im_JimHolsterWeapon
+    7400014: im_JimAttack2Charge
+    7400016: im_JimAttack2Slam
     9500000: //RootNode
     10800000: Jim_WhiteboxAnimationSetup03:ambientLight1
     10800002: Jim_WhiteboxAnimationSetup03:wolverinecapthor3_0004:directionalLight18
@@ -627,7 +627,7 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: '!JimIdle'
+      name: im_JimIdle
       takeName: Take 001
       firstFrame: 0
       lastFrame: 1000
@@ -655,7 +655,7 @@ ModelImporter:
       maskSource: {instanceID: 0}
       additiveReferencePoseFrame: 0
     - serializedVersion: 16
-      name: '!JimRun'
+      name: im_JimRun
       takeName: Take 001
       firstFrame: 1082
       lastFrame: 1110
@@ -683,7 +683,7 @@ ModelImporter:
       maskSource: {instanceID: 0}
       additiveReferencePoseFrame: 0
     - serializedVersion: 16
-      name: '!JimAttack1FrontSwing'
+      name: im_JimAttack1FrontSwing
       takeName: Take 001
       firstFrame: 1144
       lastFrame: 1155
@@ -711,7 +711,7 @@ ModelImporter:
       maskSource: {instanceID: 0}
       additiveReferencePoseFrame: 0
     - serializedVersion: 16
-      name: '!JimAttack1BackSwing'
+      name: im_JimAttack1BackSwing
       takeName: Take 001
       firstFrame: 1155
       lastFrame: 1166
@@ -739,7 +739,7 @@ ModelImporter:
       maskSource: {instanceID: 0}
       additiveReferencePoseFrame: 0
     - serializedVersion: 16
-      name: '!JimJump'
+      name: im_JimJump
       takeName: Take 001
       firstFrame: 1023
       lastFrame: 1046
@@ -767,7 +767,7 @@ ModelImporter:
       maskSource: {instanceID: 0}
       additiveReferencePoseFrame: 0
     - serializedVersion: 16
-      name: '!JimLand'
+      name: im_JimLand
       takeName: Take 001
       firstFrame: 1046
       lastFrame: 1074
@@ -795,7 +795,7 @@ ModelImporter:
       maskSource: {instanceID: 0}
       additiveReferencePoseFrame: 0
     - serializedVersion: 16
-      name: '!JimHolsterWeapon'
+      name: im_JimHolsterWeapon
       takeName: Take 001
       firstFrame: 1166
       lastFrame: 1185
@@ -823,7 +823,7 @@ ModelImporter:
       maskSource: {instanceID: 0}
       additiveReferencePoseFrame: 0
     - serializedVersion: 16
-      name: '!JimAttack2Charge'
+      name: im_JimAttack2Charge
       takeName: Take 001
       firstFrame: 1250
       lastFrame: 1337
@@ -851,7 +851,7 @@ ModelImporter:
       maskSource: {instanceID: 0}
       additiveReferencePoseFrame: 0
     - serializedVersion: 16
-      name: '!JimAttack2Slam'
+      name: im_JimAttack2Slam
       takeName: Take 001
       firstFrame: 1337
       lastFrame: 1372
